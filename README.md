@@ -58,6 +58,6 @@ I'm always available about new business inquiries or hiring opportunities. Feel 
 - 🌐 (Discord) (Crixs#9999)
 - 🌐 (Twitter) ([Crixs#9999](https://twitter.com/CrixsDev))
 - 📧 (Email)(crixscontact@gmail.com)
-- 
+
 
 
