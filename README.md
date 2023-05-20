@@ -36,6 +36,7 @@ and by creating services that not only generate income but also provide me with 
 - SQL
 - Ruby
 - Python
+- Rust
 
 ### Other Languages and Subjects I Work With
 
