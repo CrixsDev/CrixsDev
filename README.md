@@ -55,7 +55,7 @@ and by creating services that not only generate income but also provide me with 
 
 I'm always available about new business inquiries or hiring opportunities. Feel free to reach out to me through any of the following platforms (dont waste my time).
 
-- 🌐 [Discord](XP#9999)
+- 🌐 Discord (XP#9999)
 - 📧 [Email](crixscontact@gmail.com)
 
 
