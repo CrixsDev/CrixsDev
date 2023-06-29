@@ -10,9 +10,6 @@ I'm on a coding journey to learn, grow, and achieve financial success.
 ## About Me
 
 - 💻 Full-stack web developer with expertise in PHP, HTML, CSS, SQL, Ruby and JavaScript.
-- 🌐 Owner of [GodlyBio.com](https://godlybio.com), a service that offers one of the best biolink services and a community with a marketplace, custom IP loggers, API, and source code sharing.
-- 🎓 Motivated, and continuously learning to improve my skills and stay up-to-date with the latest technologies.
-- 💰 Pursuing financial independence by leveraging my coding skills and creating innovative projects and services.
 
 ## My Story
 
@@ -48,16 +45,11 @@ and by creating services that not only generate income but also provide me with 
 - Laravel
 - APIs
 - Reverse Engineering (ethically)
-- ICANN Record Managing/Manager
-- Domain Investor
-
 ## Get in Touch
 
 I'm always available about new business inquiries or hiring opportunities. Feel free to reach out to me through any of the following platforms (dont waste my time).
 
-- 🌐 (Discord) (Crixs#9999)
-- 🌐 (Twitter) ([Crixs](https://twitter.com/CrixsDev))
-- 📧 (Email)(crixscontact@gmail.com)
+- 🌐 (Telegram) (T.me/CrixsDev)
 
 
 
