@@ -3,7 +3,7 @@
 ## Introduction
 
 Hey there! 👋 I'm Crixs, a full-stack web developer from Scandinavia specializing in web applications and websites.
-I enjoy creating projects and services to escape the 'matrix' legally while learning efficient skills for future usage and personal usage.
+I enjoy creating projects and services for money legally or to help while learning efficient skills for future usage and personal usage.
 Web development is my main skill and work frame, but I'm versatile and can work with various languages, subjects, and applications.
 I'm on a coding journey to learn, grow, and achieve financial success.
 
