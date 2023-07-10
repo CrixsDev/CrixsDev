@@ -5,6 +5,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CrixsDev&layout=compact&langs_count=8&card_width=320" />
 </a>
+
 ## Introduction
 
 Hey there! 👋 I'm Crixs, a full-stack web developer from Scandinavia specializing in web applications and websites.
