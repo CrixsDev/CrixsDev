@@ -1,7 +1,10 @@
 # Welcome to My GitHub Profile!
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CrixsDev&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrixsDev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CrixsDev" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CrixsDev&layout=compact&langs_count=8&card_width=320" />
+</a>
 ## Introduction
 
 Hey there! 👋 I'm Crixs, a full-stack web developer from Scandinavia specializing in web applications and websites.
