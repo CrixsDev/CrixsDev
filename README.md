@@ -57,7 +57,7 @@ I'm always available about new business inquiries or hiring opportunities. Feel 
 
 - 🌐 (Telegram) (T.me/CrixsDev)
 <a href="https://github.com/CrixsDev/DiscordTokenChecker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrixsDev&repo=DiscordTokenChecker&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrixsDev&repo=DiscordTokenChecker&show_owner&theme=radical" />
 </a>
 <a href="https://github.com/CrixsDev/rustware">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrixsDev&repo=rustware&theme=radical" />
