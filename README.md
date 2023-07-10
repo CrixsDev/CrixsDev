@@ -1,4 +1,5 @@
 # Welcome to My GitHub Profile!
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CrixsDev)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Introduction
 
